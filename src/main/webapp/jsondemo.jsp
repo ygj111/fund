@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Jquery Json Demo</title>
-    <<link href="bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 	<script src="jquery/1.11.3/jquery-1.11.3.min.js"></script>
 	<script src="bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
